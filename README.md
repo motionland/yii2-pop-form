@@ -1,1 +1,1 @@
-# yii2_pop_form
+# yii2-pop-form
